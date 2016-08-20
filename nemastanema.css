@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css?family=Galada");
+*{
+	margin: 0px;
+}
+header{ 
+	background-image: url("http://tub.tubgit.com/reimg/resize-img.php?src=http://tub.tubgit.com/images249/o1oyucwwg0r.jpg&h=450&w=728");
+	height: 100px;
+	width: 1500px;
+	}
+h2{
+	font-family: "Galada", Times, serif;
+	text-align: center;
+	color: black;
+	font-size: 40px;
+	padding: 20px;
+}
+#O{
+	font-family: "Galada", Times, serif;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	padding: 20px;
+}
+h3{
+	font-family: "Galada", Times, serif;
+	text-align: left;
+	color:white;
+	font-size: 22px;
+	padding: 0px;
+}
+#namestaj{
+	font-family: "Galada", Times, serif;
+	text-align: left;
+	color:white;
+	font-size: 22px;
+	padding: 20px;
+}
+p{
+	font-family: "Galada", Times, serif;
+	text-align: justify;
+	color: white;
+	font-size: 20px;
+	padding: 20px;
+
+}
+/*#logo{
+	position: relative;
+	left: 25px;
+	top: 25px;
+	float:left;
+	height: 150px;
+	width: 150px;
+}*/
+#naslov{
+	position: relative;
+	left: 60px;
+	top: 25px;
+	font-size: 50px;
+	font-family: "Galada", Times, serif;
+	text-align: left;
+	color: white;
+
+}
+#opis{
+	background-image: url("http://tub.tubgit.com/reimg/resize-img.php?src=http://tub.tubgit.com/images249/o1oyucwwg0r.jpg&h=450&w=728");
+}
+nav li {
+	position: relative;
+	top: -40px;
+	left: 700px;
+	padding: 10px;
+	font-family: "Galada", Times, serif;
+	display: inline;
+	float: left;
+	font-size: 25px;
+
+	}
+	a{
+		color: white;
+	}
+#slika1{
+	height: 280px;
+	width: 600px;
+	padding:35px;
+    position: relative;
+	top: 0px;
+	left: -120px;
+	-webkit-filter: invert(10%);
+	filter:invert(100%);
+}
+img{
+	padding: 13px;
+	height: 200px;
+	width: 190px;
+	margin: 1px;
+}
+footer {
+  padding-bottom: 0px;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 10px;
+  color: black;
+  background-image: url("http://tub.tubgit.com/reimg/resize-img.php?src=http://tub.tubgit.com/images249/o1oyucwwg0r.jpg&h=450&w=728");
+
+}
+.footer{
+	font-size: 25px;
+  text-align: center;
+  padding-top: 10px;
+  color: black;
+}
+#fo{
+	color: black;
+}
+#foot{
+	font-size: 25px;
+  text-align: center;
+  padding-top: 10px;
+  color: black;
+}
